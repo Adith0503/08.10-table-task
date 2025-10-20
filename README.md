@@ -7,7 +7,7 @@ adith kuttappan
 <body>
 <table border="1">
     <tr>
-        <th style="color: aliceblue;" bgcolor="blue"colspan="4">students details</th>
+        <th bgcolor="blue"colspan="4">students details</th>
     </tr>
     <tr>
         <th>nr</th>
